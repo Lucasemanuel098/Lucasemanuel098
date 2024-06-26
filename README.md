@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Olá, Eu sou Lucas<br><br>- 🔭 No momento eu estou no 2º ano do ensino médio <br>- 📚 Eu estou estudando HTML, CSS e JS<br>- ⚡ e no meu tempo livre eu gosto de jogar, curtir umas musicas e tocar violão</p>
+<p align="left">Olá, Eu sou Lucas<br><br>- 🔭 No momento eu estou no 2º ano do ensino médio <br>- 📚 Eu estou estudando HTML, CSS e JS<br>- ⚡ e no meu tempo livre eu gosto de jogar, curtir umas musiquinhas ou assistir alguma coisa</p>
 
 ###
 
