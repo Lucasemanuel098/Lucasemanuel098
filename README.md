@@ -1,31 +1,53 @@
-<h1 align="center">Bem vindo!</h1>
-
-###
-
-<h1 align="left">👩‍💻  Sobre mim</h1>
-
-###
-
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/93/2d/f1/932df101bb5e217beb4aa0532e138c99.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
-<p align="left">Olá, Eu sou Lucas<br><br>- 🔭 No momento eu estou no 2º ano do ensino médio <br>- 📚 Eu estou estudando HTML, CSS e JS<br>- ⚡ e no meu tempo livre eu gosto de jogar, curtir umas musiquinhas ou assistir alguma coisa</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucasemanuel098.Lucasemanuel098&"  />
+</div>
 
 ###
 
-<h3 align="left">🛠 Linguagens</h3>
+<h1 align="center">Bem vindo👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim<br><br>Olá! Meu nome é Lucas Emanuel.<br><br>Sou estudante do Bacharelado Interdisciplinar em Ciência e Tecnologia pela UFERSA e apaixonado por tecnologia, programação e aprendizado contínuo.<br><br>Atualmente estou focado em desenvolvimento web e estudo principalmente **JavaScript, Python, HTML e CSS**, além de praticar lógica de programação através de projetos pessoais.<br><br>Gosto de construir aplicações simples para resolver problemas e melhorar minhas habilidades como desenvolvedor. Estou sempre buscando aprender novas tecnologias e evoluir na área de desenvolvimento de software.</h3>
+
+###
+
+<p align="left">🚀 Atualmente estudando:<br>- JavaScript<br>- Python<br>- Desenvolvimento Web<br>- Linux</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Lucasemanuel098&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
